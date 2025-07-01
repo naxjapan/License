@@ -27,7 +27,7 @@
 - 新機能の追加は別途料金で提供される場合があります
 
 ## 連絡先
-- メール: support@yourcompany.com
+- メール: dx@naxjapan.com
 - ウェブサイト: https://naxjapan.com/
 
 ## 価格
