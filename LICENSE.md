@@ -28,11 +28,11 @@
 
 ## 連絡先
 - メール: support@yourcompany.com
-- ウェブサイト: https://yourcompany.com
+- ウェブサイト: https://naxjapan.com/
 
 ## 価格
 - 単一ライセンス: $99 USD
 - エンタープライズライセンス: $499 USD（無制限使用）
 
 ---
-© 2024 あなたの会社名. All rights reserved. 
+© 2025 naxjapan. All rights reserved. 
